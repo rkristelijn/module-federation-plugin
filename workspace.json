@@ -56,8 +56,8 @@
     },
     "mf-e2e": {
       "projectType": "application",
-      "root": "e2e\\mf-e2e",
-      "sourceRoot": "e2e\\mf-e2e/src",
+      "root": "e2e/mf-e2e",
+      "sourceRoot": "e2e/mf-e2e/src",
       "architect": {
         "e2e": {
           "builder": "@nrwl/nx-plugin:e2e",
