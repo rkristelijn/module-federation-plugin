@@ -1,6 +1,10 @@
-# @angular-architects/module-federation
+# @rkristelijn/module-federation
 
 Seamlessly using Webpack Module Federation with the Angular CLI.
+
+> This is a fork from [@angular-architects/module-federation](https://github.com/angular-architects/module-federation-plugin) with some bugfixes.
+
+The code was not written by me but by [Manfred Steyer](https://github.com/manfredsteyer). Check out his awesome work on [explaining Angular and Webpack 5 Module Federation](https://www.youtube.com/watch?v=2yo5mxQZ37c&ab_channel=AngularUP).
 
 ## Thanks
 
